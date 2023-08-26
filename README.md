@@ -40,6 +40,8 @@ To get started with this project, follow these steps:
 ## Exploratory Data Analysis
 
 In the Jupyter notebook `IncomePrediction.ipynb`, you'll find exploratory data analysis of the dataset. This includes visualizations, summary statistics, and insights into the relationships between features and income.
+![Screenshot (18)](https://github.com/Sujgaik2003/IncomePred/assets/118328948/daab0cc7-8964-4def-9402-f83350f892d3)
+
 
 
 
