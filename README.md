@@ -56,7 +56,7 @@ In the `IncomePrediction.ipynb` notebook, we compare different regression algori
 ## Training and Evaluation
 
 The `IncomePrediction.ipynb` notebook delves into the training and evaluation of the selected model. It includes techniques like cross-validation, hyperparameter tuning, and performance metrics calculation.
-
+![Screenshot (20)](https://github.com/Sujgaik2003/IncomePred/assets/118328948/a8a5258f-7397-4d13-b2e2-48a8947009e5)
 
 ## Contributing
 
