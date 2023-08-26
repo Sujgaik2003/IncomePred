@@ -1,7 +1,7 @@
 
 # Income Price Prediction
 
-Welcome to the Income Price Prediction project! This project aims to predict the income of individuals based on various features using machine learning techniques. The dataset used for this project is the [) containing information about individuals and their corresponding income.
+Welcome to the Income Price Prediction project! This project aims to predict the income of individuals based on various features using machine learning techniques. The dataset used for this project is the [adult.csv](#adult.csv) containing information about individuals and their corresponding income.
 
 ## Table of Contents
 
@@ -12,7 +12,6 @@ Welcome to the Income Price Prediction project! This project aims to predict the
 - [Feature Engineering](#feature-engineering)
 - [Model Selection](#model-selection)
 - [Training and Evaluation](#training-and-evaluation)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -29,8 +28,8 @@ The dataset contains various features such as age, education level, occupation, 
 
 To get started with this project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/income-price-prediction.git`
-2. Navigate to the project directory: `cd income-price-prediction`
+1. Clone this repository: `git clone https://github.com/Sujgaik2003/IncomePred/edit/main/README.md`
+2. Navigate to the project directory: `cd IncomePred `
 3. Set up a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
    - On Windows: `venv\Scripts\activate`
@@ -40,32 +39,20 @@ To get started with this project, follow these steps:
 
 ## Exploratory Data Analysis
 
-In the Jupyter notebook `EDA.ipynb`, you'll find exploratory data analysis of the dataset. This includes visualizations, summary statistics, and insights into the relationships between features and income.
+In the Jupyter notebook `IncomePrediction.ipynb`, you'll find exploratory data analysis of the dataset. This includes visualizations, summary statistics, and insights into the relationships between features and income.
 
 ## Feature Engineering
 
-The notebook `Feature_Engineering.ipynb` covers the process of feature selection, transformation, and creation. Effective feature engineering can greatly enhance the performance of your prediction model.
+The notebook `IncomePrediction.ipynb` covers the process of feature selection, transformation, and creation. Effective feature engineering can greatly enhance the performance of your prediction model.
 
 ## Model Selection
 
-In the `Model_Selection.ipynb` notebook, we compare different regression algorithms such as Linear Regression, Decision Trees, Random Forests, and Gradient Boosting to find the best-performing model for our income prediction task.
+In the `IncomePrediction.ipynb` notebook, we compare different regression algorithms such as Linear Regression, Decision Trees, Random Forests, and Gradient Boosting to find the best-performing model for our income prediction task.
 
 ## Training and Evaluation
 
-The `Train_and_Evaluate.ipynb` notebook delves into the training and evaluation of the selected model. It includes techniques like cross-validation, hyperparameter tuning, and performance metrics calculation.
+The `IncomePrediction.ipynb` notebook delves into the training and evaluation of the selected model. It includes techniques like cross-validation, hyperparameter tuning, and performance metrics calculation.
 
-## Deployment
-
-The `Deployment` directory contains the code and files necessary for deploying the trained model. You can showcase how to use the model to predict incomes based on user input.
-
-## Usage
-
-To use the deployed model for predicting incomes, follow these steps:
-
-1. Navigate to the `Deployment` directory.
-2. Install the required packages: `pip install -r requirements.txt`
-3. Start the deployment app: `python app.py`
-4. Access the app in your browser at `http://localhost:5000`
 
 ## Contributing
 
@@ -73,4 +60,4 @@ Contributions are welcome! If you find any issues or want to add new features to
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Sujeet License](LICENSE).
