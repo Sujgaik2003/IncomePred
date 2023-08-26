@@ -41,6 +41,8 @@ To get started with this project, follow these steps:
 
 In the Jupyter notebook `IncomePrediction.ipynb`, you'll find exploratory data analysis of the dataset. This includes visualizations, summary statistics, and insights into the relationships between features and income.
 
+
+
 ## Feature Engineering
 
 The notebook `IncomePrediction.ipynb` covers the process of feature selection, transformation, and creation. Effective feature engineering can greatly enhance the performance of your prediction model.
